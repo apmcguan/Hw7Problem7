@@ -9,5 +9,13 @@ int power[5];
 
 int main()
 {
+   int R = 0;
+int C = 0;
+int P = 0;
+
+
+
+}
+
   }
  
