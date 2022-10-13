@@ -9,4 +9,5 @@ int power[5];
 
 int main()
 {
+  }
  
